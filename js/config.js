@@ -1,0 +1,9 @@
+const CONFIG = {
+
+    INVITE_CODE: "JAMILLE96",
+
+    TOKEN: "L7vP!92#Cinema$Kx18",
+
+    API_URL: "COLOCAREMOS_DEPOIS"
+
+};
